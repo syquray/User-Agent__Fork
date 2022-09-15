@@ -1,5 +1,6 @@
 #最近流行ってるUA(User Agent)取得です。python初心者なので、お手柔らかにお願いします()
-pip install requests
+import os
+os.system("pip install requests")
 import requests
 import json
 
